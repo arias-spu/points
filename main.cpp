@@ -1,3 +1,4 @@
+// A comment
 #include <iostream>
 #include "point.h"
 using namespace std;
